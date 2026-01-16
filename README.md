@@ -9,20 +9,17 @@
 
 ### Team Member Contributions
 
-**[Your Name]:**
+**[Joseph Norton]:**
 - Designed overall page structure and information hierarchy
 - Implemented all required HTML5 semantic tags
 - Created content for mission, programs, and impact stories sections
 - Ensured proper nesting and organization of all structural elements
 - Tested webpage deployment and accessibility
 
-**[Team Member 2 Name]:**
+**[Thomas Williams]:**
 - [Add their contributions]
 
-**[Team Member 3 Name]:**
-- [Add their contributions]
-
-**[Team Member 4 Name]:**
+**[Nathan Chzack]:**
 - [Add their contributions]
 
 ### Required HTML Tags Used
