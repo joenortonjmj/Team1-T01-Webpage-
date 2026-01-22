@@ -4,7 +4,7 @@
 
 ### Team Members
 - Joe Norton - Created HTML structure, wrote content, deployed to server
-- [Team Member 2] - [Their contribution]
+- Thomas Williams - Assisted HTML, created presentation, explained tags
 - [Team Member 3] - [Their contribution]  
 - [Team Member 4] - [Their contribution]
 
